@@ -1,4 +1,6 @@
 ## Hi there 👋
+oi meu nome é Noemi sou programadora.
+trabalho com HTML,JavaScript e css
 
 <!--
 **noemireis/noemireis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
